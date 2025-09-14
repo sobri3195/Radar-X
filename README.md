@@ -54,9 +54,6 @@ Current radar systems in Indonesia face critical challenges:
 ## 📸 UI Preview
 All UI screenshots are located in the [`/images`](./images) folder.
 
-## 📸 UI Preview
-All UI screenshots are located in the [`/images`](./images) folder.
-
 | Main Dashboard | Radar Visualization | AI Assistant |
 |---|---|---|
 | ![Dashboard](images/WhatsApp%20Image%202025-09-15%20at%2006.02.51.jpeg) | ![Radar](images/WhatsApp%20Image%202025-09-15%20at%2005.58.34.jpeg) | ![AI](images/WhatsApp%20Image%202025-09-15%20at%2005.58.02.jpeg) |
