@@ -88,7 +88,7 @@ All UI screenshots are located in the [`/images`](./images) folder.
 ---
 
 ## 🧪 Prototype & Demo Links
-- 🎨 **Figma Prototype:** [Add Figma Link Here](#)  
+- 🎨 **Figma Prototype:** [Prototype Awal](https://decal-terms-20425924.figma.site)  
 - 💻 **GitHub Repository:** [github.com/sobri3195](https://github.com/sobri3195)  
 - 🎥 **YouTube Demo:** [Video RadarX](https://www.youtube.com/watch?v=h5qZGoS-mew)
 
