@@ -54,15 +54,15 @@ Current radar systems in Indonesia face critical challenges:
 ## 📸 UI Preview
 All UI screenshots are located in the [`/images`](./images) folder.
 
-| Dashboard | Radar Visualization | AI Assistant |
-|---|---|---|
-| ![Dashboard](images/dashboard.png) | ![Radar](images/radar3d.png) | ![AI Assistant](images/ai_assistant.png) |
+## 📸 UI Preview
+All UI screenshots are located in the [`/images`](./images) folder.
 
-| Reporting | Weather Layer | EW / Stealth Detection |
+| Main Dashboard | Radar Visualization | AI Assistant |
 |---|---|---|
-| ![Report](images/report_form.png) | ![Weather](images/weather.png) | ![Stealth](images/stealth.png) |
+| ![Dashboard](images/WhatsApp%20Image%202025-09-15%20at%2006.02.51.jpeg) | ![Radar](images/WhatsApp%20Image%202025-09-15%20at%2005.58.34.jpeg) | ![AI](images/WhatsApp%20Image%202025-09-15%20at%2005.58.02.jpeg) |
 
-> 💡 Replace these filenames with your actual screenshots inside the `/images` folder.
+> 💡 Make sure the file names and extensions match exactly with the ones in your `/images` folder.
+
 
 ---
 
