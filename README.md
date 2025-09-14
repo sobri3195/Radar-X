@@ -110,18 +110,20 @@ All UI screenshots are located in the [`/images`](./images) folder.
 ---
 
 ## 📁 Folder Structure
+```plaintext
 LASA-X/
 │
 ├── README.md
 ├── images/
-│ ├── dashboard.png
-│ ├── radar3d.png
-│ ├── ai_assistant.png
-│ ├── report_form.png
-│ ├── weather.png
-│ └── stealth.png
+│   ├── dashboard.png
+│   ├── radar3d.png
+│   ├── ai_assistant.png
+│   ├── report_form.png
+│   ├── weather.png
+│   └── stealth.png
 └── src/
-└── (optional AI code or notebooks)
+    └── (optional AI code or notebooks)
+```
 
 
 ---
